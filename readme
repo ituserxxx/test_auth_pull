@@ -1,1 +1,9 @@
-aaa
+拉取指定目录下文件,如目录 demo 目录下的 dist.zip
+
+```
+wget https://raw.github.com/ituserxxx/yuchi_dist_data/main/demo/dist.zip
+
+# 重命名为 a.zip
+wget -O a.zip https://raw.github.com/ituserxxx/yuchi_dist_data/main/yuchi1/dist.zip
+```
+
