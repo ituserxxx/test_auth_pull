@@ -1,4 +1,10 @@
-拉取指定目录下文件,如目录 demo 目录下的 dist.zip
+
+1、拉取 auto_pull_dist.sh 脚本
+```
+ wget https://github.com/ituserxxx/yuchi_dist_data/blob/main/auto_pull_dist.sh
+```
+
+2、拉取指定目录下文件,如目录 demo 目录下的 dist.zip
 
 ```
 wget https://raw.github.com/ituserxxx/yuchi_dist_data/main/demo/dist.zip
